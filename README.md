@@ -1,4 +1,4 @@
-# Hi 👋 I'm Roshik
+# Hi! I'm Roshik Adil
 
 🚀 Computer Systems Engineering Student | AI & Full Stack Developer  
 🤖 Passionate about Machine Learning, Computer Vision & App Development  
@@ -16,6 +16,14 @@
 
 ---
 
+## 🎯 Goals
+- Become a strong AI Engineer
+- Build production-level computer vision systems
+- Create scalable full-stack applications
+- Contribute to real-world impactful projects
+
+---
+
 ## ⚒️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,10 +33,12 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 💻 Languages
-Python | JavaScript | Dart
+- Python, JavaScript, Dart
 
-### 🌐 Web Development
-React.js | Node.js | Express.js | MongoDB | Tailwind CSS
+### 🌐 Frameworks & Tools
+- React.js, Node.js, Express.js
+- TensorFlow, PyTorch, OpenCV
+- Flutter, Firebase
 
 ### 🤖 AI / ML
 YOLO | OpenCV | TensorFlow | PyTorch | Scikit-learn
