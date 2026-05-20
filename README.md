@@ -6,7 +6,9 @@
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+Developer;Computer+Vision+Engineer;Full+Stack+Developer)](https://git.io/typing-svg)
 - 🎯 Focused on AI, Deep Learning & Full Stack Development  
 - 🧪 Working on YOLO-based Wheat Disease Detection System  
 - 🚑 Built Incident Detection & Emergency Reporting App  
@@ -14,8 +16,6 @@
 - 📍 Based in Karachi,Pakistan  
 
 ---
-
-## ⚒️ Tech Stack
 
 ## ⚒️ Tech Stack
 
