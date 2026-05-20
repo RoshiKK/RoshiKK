@@ -11,14 +11,14 @@
 - 🧪 Working on YOLO-based Wheat Disease Detection System  
 - 🚑 Built Incident Detection & Emergency Reporting App  
 - 🌐 Love building impactful real-world tech solutions  
-- 📍 Based in Pakistan  
+- 📍 Based in Karachi,Pakistan  
 
 ---
 
 ## ⚒️ Tech Stack
 
 ### 💻 Languages
-Python | JavaScript | C++ | Dart
+Python | JavaScript | Dart
 
 ### 🌐 Web Development
 React.js | Node.js | Express.js | MongoDB | Tailwind CSS
@@ -36,11 +36,11 @@ Flutter | Firebase
 ### 🌾 WheatSense (YOLOv10 AI System)
 AI-powered wheat disease detection using deep learning & computer vision.
 
-### 🚑 Incident Detector App
+### 🚑 KHIVISION
 Real-time emergency reporting system that connects users to ambulances.
 
-### 🎬 GIF Creator Tool
-Web-based GIF creation platform using React & Fabric.js.
+### 🎬 Personal Portfolio
+Persoanl Portfolio using React.JS & TailwindCSS
 
 ---
 
@@ -53,9 +53,9 @@ Web-based GIF creation platform using React & Fabric.js.
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: (add your link)
-- 📧 Email: (add your email)
-- 🌐 Portfolio: (if you have one)
+- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-roshik/
+- 📧 Email: roshik789@gmail.com
+- 🌐 Portfolio: https://roshikportfolio.netlify.app/
 
 ---
 
