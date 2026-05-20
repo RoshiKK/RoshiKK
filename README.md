@@ -1,6 +1,6 @@
 # Hi! I'm Roshik Adil
 
-🚀 Computer Systems Engineering Student | AI & Full Stack Developer  
+🚀 Computer Systems Engineering Student at NED University of Engineering & Technology | AI & Full Stack Developer  
 🤖 Passionate about Machine Learning, Computer Vision & App Development  
 ⚡ Building real-world AI systems and scalable web apps  
 
@@ -9,8 +9,7 @@
 ## 🚀 About Me
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=MERN+Stack+Developer;AI+Developer;Computer+Vision+Engineer;Full+Stack+Developer)](https://git.io/typing-svg)
 - 🎯 Focused on AI, Deep Learning & Full Stack Development  
-- 🧪 Working on YOLO-based Wheat Disease Detection System  
-- 🚑 Built Incident Detection & Emergency Reporting App  
+- 🚑 Built KHIVISION Incident Detection & Emergency Reporting App  
 - 🌐 Love building impactful real-world tech solutions  
 - 📍 Based in Karachi,Pakistan  
 
