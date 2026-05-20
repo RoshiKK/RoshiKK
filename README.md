@@ -50,14 +50,14 @@ Flutter | Firebase
 
 ## 🚀 Featured Projects
 
-### 🌾 WheatSense (YOLOv10 AI System)
-AI-powered wheat disease detection using deep learning & computer vision.
-
 ### 🚑 KHIVISION
 Real-time emergency reporting system that connects users to ambulances.
 
 ### 🌐 Personal Portfolio
 Persoanl Portfolio using React.JS & TailwindCSS
+
+### 🌾 WheatSense (YOLOv10 AI System)
+AI-powered wheat disease detection using deep learning & computer vision.
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/muhammad-roshik/
@@ -67,3 +67,4 @@ Persoanl Portfolio using React.JS & TailwindCSS
 ---
 
 ⭐ “Building AI systems that solve real-world problems”
+![Visitor Count](https://komarev.com/ghpvc/?username=RoshiKK&style=for-the-badge)
