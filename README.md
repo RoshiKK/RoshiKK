@@ -54,7 +54,7 @@ Flutter | Firebase
 Real-time emergency reporting system that connects users to ambulances.
 
 ### 🌐 Personal Portfolio
-Persoanl Portfolio using React.JS & TailwindCSS
+A modern responsive portfolio built using React.js and Tailwind CSS showcasing my projects, skills, and experience.
 
 ### 🌾 WheatSense (YOLOv10 AI System)
 AI-powered wheat disease detection using deep learning & computer vision.
@@ -67,4 +67,6 @@ AI-powered wheat disease detection using deep learning & computer vision.
 ---
 
 ⭐ “Building AI systems that solve real-world problems”
+
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=RoshiKK&style=for-the-badge)
