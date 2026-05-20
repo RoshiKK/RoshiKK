@@ -48,14 +48,6 @@ Flutter | Firebase
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoshiKK)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshiKK)
-
----
-
 ## 🚀 Featured Projects
 
 ### 🚑 KHIVISION
