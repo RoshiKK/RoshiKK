@@ -7,7 +7,6 @@
 ---
 
 ## 🚀 About Me
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=MERN+Stack+Developer;AI+Developer;Computer+Vision+Engineer;Full+Stack+Developer)](https://git.io/typing-svg)
 - 🎯 Focused on AI, Deep Learning & Full Stack Development  
 - 🧪 Working on YOLO-based Wheat Disease Detection System  
