@@ -39,16 +39,16 @@ AI-powered wheat disease detection using deep learning & computer vision.
 ### 🚑 KHIVISION
 Real-time emergency reporting system that connects users to ambulances.
 
-### 🎬 Personal Portfolio
+### 🌐 Personal Portfolio
 Persoanl Portfolio using React.JS & TailwindCSS
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoshiKK&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RoshiKK&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshiKK&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoshiKK&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
