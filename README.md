@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=MERN+Stack+Developer;AI+Developer;Computer+Vision+Engineer;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=MERN+Stack+Developer;AI/ML+Developer;)](https://git.io/typing-svg)
 - 🎯 Focused on AI, Deep Learning & Full Stack Development  
 - 🚑 Built KHIVISION Incident Detection & Emergency Reporting App  
 - 🌐 Love building impactful real-world tech solutions  
