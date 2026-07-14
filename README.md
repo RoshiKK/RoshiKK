@@ -1,6 +1,6 @@
 # Hi! I'm Roshik Adil
 
-🚀 Computer Systems Engineering Student at NED University of Engineering & Technology | AI/ML & MERN Stack Developer  
+🚀 Computer Systems Engineering Graduate at NED University of Engineering & Technology | AI/ML & MERN Stack Developer  
 🤖 Passionate about Machine Learning, Computer Vision & App Development  
 ⚡ Building real-world AI systems and scalable web apps  
 
