@@ -1,172 +1,200 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Roshik+Adil;AI%2FML+Engineer+%7C+Full+Stack+Developer;Building+Real-World+AI+Systems;MERN+Stack+%2B+Computer+Vision" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Roshik+Adil;AI%2FML+Engineer+%7C+Full+Stack+Developer;Building+Production-Ready+AI+Systems;Computer+Vision+%7C+MERN+Stack" alt="Typing SVG" />
 
 <br>
 
-**Computer & Information Systems Engineering Graduate — NED University of Engineering & Technology**
-🚑 Creator of **KHIVISION** — AI Accident Detection & Emergency Response Platform
+# Muhammad Roshik Adil
+
+**AI/ML Engineer | Full Stack Developer**
+
+Computer & Information Systems Engineering Graduate  
+NED University of Engineering & Technology
+
+Building intelligent AI applications, computer vision systems, and scalable full-stack web & mobile solutions.
 
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://roshikportfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-roshik/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roshik789@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roshik789@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RoshiKK)
 
-<img src="https://komarev.com/ghpvc/?username=RoshiKK&style=for-the-badge&color=36BCF7" alt="Visitor Count" />
+<img src="https://komarev.com/ghpvc/?username=RoshiKK&style=for-the-badge&color=36BCF7" alt="Profile Views"/>
 
 </div>
 
-<br>
+---
 
-## 🧠 About Me
+# About Me
 
 ```yaml
-roshik = {
-  role: "AI/ML Engineer & Full Stack Developer",
-  education: "Computer & Information Systems Engineering, NED University",
-  location: "Karachi, Pakistan",
-  focus: ["Computer Vision", "Deep Learning", "Full Stack Web & Mobile"],
-  currently_building: "Production-grade AI systems that solve real problems",
-  fun_fact: "Turns hackathon ideas into deployed products"
-}
+name: Muhammad Roshik Adil
+
+role: AI/ML Engineer & Full Stack Developer
+
+education:
+  degree: Computer & Information Systems Engineering
+  university: NED University of Engineering & Technology
+
+location: Karachi, Pakistan
+
+specializations:
+  - Artificial Intelligence
+  - Computer Vision
+  - Deep Learning
+  - Full Stack Development
+  - Mobile Application Development
+
+currently_working_on:
+  - Production-grade AI applications
+  - Intelligent computer vision systems
+  - Full-stack SaaS platforms
 ```
 
-- 🚑 Built **KHIVISION**, a production-deployed accident detection & emergency response platform (YOLOv5/CNN detection @ 85%+ accuracy)
-- 🌾 Built **WheatSense**, a YOLOv10-powered wheat disease detection system
-- 📄 Trained a **DistilBERT resume classifier** hitting 81.89% accuracy
-- 🩻 Built an **X-ray report generation** pipeline (DenseNet-121 + GPT-2)
-- 🎓 Certified in **Applied Machine Learning** (NED Neurocomputation Lab)
-- 🛠️ Completed a **Remote Full-Stack Development Bootcamp** (ConfigLabs)
+I enjoy building intelligent software that solves real-world problems by combining Artificial Intelligence with modern web and mobile technologies.
 
-<br>
+### Highlights
 
-## ⚙️ Tech Stack
+- Built **KHIVISION**, an AI-powered accident detection and emergency response platform using YOLOv5, React, Flutter, Node.js, MongoDB, and AWS.
+- Developed **WheatSense**, a computer vision system for early wheat disease detection using YOLOv10.
+- Trained a **DistilBERT Resume Classifier** achieving **81.89% classification accuracy**.
+- Built an automated **Chest X-ray Report Generation** system using DenseNet-121 and GPT-2.
+- Certified in **Applied Machine Learning** by NED Neurocomputation Lab.
+- Completed a **Remote Full-Stack Development Bootcamp** at ConfigLabs.
+
+---
+
+# Technical Skills
+
+## Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,dart,c,cpp" />
+</p>
+
+## Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite" />
+</p>
+
+## Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+## Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,firebase" />
+</p>
+
+## Artificial Intelligence & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+**Technologies**
+
+- YOLOv5
+- YOLOv8
+- YOLOv10
+- CNN
+- DistilBERT
+- GPT-2
+- LangChain
+- Hugging Face
+- OpenAI API
+- Google Gemini API
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase" />
+</p>
+
+## Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman" />
+</p>
+
+---
+
+# Featured Projects
+
+| Project | Description | Technologies |
+|----------|-------------|--------------|
+| **KHIVISION** | AI-powered accident detection and emergency response platform connecting accidents with hospitals and emergency responders in real time. | YOLOv5, CNN, React, Flutter, Node.js, MongoDB, AWS |
+| **WheatSense** | Deep learning solution for wheat disease detection using computer vision. | YOLOv10, Python, OpenCV |
+| **Resume Classifier** | NLP-based resume classification system using transformer models. | DistilBERT, PyTorch |
+| **X-ray Report Generation** | Automated radiology report generation using image captioning models. | DenseNet-121, GPT-2 |
+| **Healthcare Appointment System** | Complete MERN application for patient appointment scheduling and management. | MongoDB, Express.js, React, Node.js |
+| **Personal Portfolio** | Modern responsive developer portfolio showcasing projects and experience. | React.js, Tailwind CSS |
+
+---
+
+# Certifications
+
+- Applied Machine Learning — NED Neurocomputation Lab
+- Remote Full-Stack Development Bootcamp — ConfigLabs
+
+---
+
+# GitHub Statistics
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RoshiKK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshiKK&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RoshiKK&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br>
+---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚑 [KHIVISION](https://github.com/RoshiKK)
-AI-powered accident detection & emergency response platform connecting incidents to hospitals and drivers in real time.
-
-`YOLOv5` `CNN` `React` `Node.js` `Flutter` `MongoDB` `AWS`
-
-**85%+ detection accuracy · Final Year Design Project**
-
-</td>
-<td width="50%">
-
-### 🌾 WheatSense
-Computer vision system for early wheat disease detection built on YOLOv10.
-
-`YOLOv10` `Deep Learning` `Computer Vision`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🩻 X-ray Report Generation
-Automated radiology report generation pipeline combining vision and language models.
-
-`DenseNet-121` `GPT-2` `PyTorch`
-
-</td>
-<td width="50%">
-
-### 📄 Resume Classifier
-NLP model that classifies resumes by role using a fine-tuned transformer.
-
-`DistilBERT` `81.89% Accuracy` `NLP`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏥 Healthcare Appointment System
-Full-stack MERN application for managing patient-doctor appointments end to end.
-
-`MongoDB` `Express` `React` `Node.js`
-
-</td>
-<td width="50%">
-
-### 🌐 Personal Portfolio
-Modern, responsive portfolio showcasing projects, skills, and experience.
-
-`React.js` `Tailwind CSS`
-
-[**Visit Live →**](https://roshikportfolio.netlify.app/)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 🎯 Goals
-
-- 🧠 Become a strong AI/ML Engineer specializing in computer vision
-- 🏭 Build production-level, deployable computer vision systems
-- 🌐 Create scalable full-stack applications end to end
-- 🌍 Contribute to real-world, high-impact engineering projects
-
-<br>
-
-## 📊 GitHub Stats
+# GitHub Activity Graph
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RoshiKK&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshiKK&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RoshiKK&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+[![Roshik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RoshiKK&theme=tokyo-night&hide_border=true)](https://github.com/RoshiKK)
 
 </div>
 
-<br>
+---
 
-## 📫 Let's Connect
+# Career Goals
+
+- Specialize in Computer Vision and Deep Learning.
+- Build scalable production-ready AI systems.
+- Design high-performance full-stack applications.
+- Contribute to impactful open-source and industry projects.
+- Continue learning and applying state-of-the-art AI technologies.
+
+---
+
+# Contact
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-roshik/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roshik789@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://roshikportfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-roshik/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roshik789@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RoshiKK)
 
-<br><br>
+</div>
 
-### ⭐ "Building AI systems that solve real-world problems"
+---
+
+<div align="center">
+
+### Building AI systems that solve real-world problems.
 
 </div>
