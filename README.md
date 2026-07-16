@@ -70,7 +70,7 @@ I enjoy building intelligent software that solves real-world problems by combini
 ## Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,javascript,dart,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,javascript,dart" />
 </p>
 
 ## Frontend Development
